@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Hanselman.Android\Appointy.Android.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.myandi" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hanselman.Android\obj\Release\android\src\md524f22af09a0a3ea2ed89d8629b02388e\WearService.java">
+    <Files>
+      <File FileName="Hanselman.Android\obj\Release\android\src\md524f22af09a0a3ea2ed89d8629b02388e\WearService.java" Line="38" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Hanselman.Watch\WatchApp\WatchApp.csproj</String>
+    <String>Hanselman.Wear\WearApp\WearApp.csproj</String>
+  </DisabledProjects>
+</Properties>
